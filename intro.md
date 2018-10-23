@@ -1,6 +1,6 @@
 # Ako vygenerovat kluc cez terminal namiesto emailu pisat svoj email, podla uloziska, napr github 
 1. prikaz (terminal): `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
-2. treba 3x potvrdit enterom <br>
+2. treba 3x potvrdit enterom  <br>
 3. otvorime si bash terminal a v nom zadame tento prikaz, ktory spusti ssh agenta na pozadi: `eval $(ssh-agent -s)`
 4. tymto prikazom ssh sukromny kluc sa prida do ssh agenta: `ssh-add ~/.ssh/id_rsa`
 5. tymto prikazom sa skopiruje ssh kluc do copy to clipboard: `clip < ~/.ssh/id_rsa.pub`
