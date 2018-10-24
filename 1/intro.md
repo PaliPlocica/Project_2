@@ -13,10 +13,13 @@
 * ctrl + B = `open/close window on the left side`
 * ctrl + shift + M = `open or close TERMINAL`
 * cd + medzera + nazov priecinku = `open folder` <!-- v terminale iba v danom priecinku: cd ./Fico je kkt -->
+* cd + medzera + .. = `out from the folder`
 * cd + medzera + TAB = `open folder, which I want`
 * ls = `show what´s in the folder`
 * mkdir + medzera + nazov priecinku = `create new folder`
 * rmdir + medzera + nazov priecinku = `delete folder`
+* ctrl + z/y = `back/front`
+* echo + medzera + "text", ktory chcem vlozit do filu, musi byt oznaceny uvodzovkami + sipka do prava (>) + nazov.typ filu (.md, .txt) = `insert text`
 
 ## markdown
 [info](https://cs.wikipedia.org/wiki/Markdown?fbclid=IwAR1NQRssgvX1-xJSZG8HNADYcqovBGpcd_3b__DZg6HJ2QXeUcONkyAJtBg)
