@@ -74,3 +74,47 @@ pomocí několika mezer na konci řádku.
 [info](https://sk.wikipedia.org/wiki/Bash?fbclid=IwAR33XvqNdXTsIYB2elGVcG8AC2kCpe7eKKSMXQ8N37D4_qxi9Udx1rnMIik)
 
 <!-- ? PRE LUKASA!!! -->
+
+<h1>Hlavní nadpis</h1>
+
+<ul>
+<li>toto</li>
+<li>je</li>
+<li>seznam</li>
+</ul>
+
+<h2>Menší podnadpis</h2>
+
+<ol>
+<li>toto </li>
+<li>se čísluje</li>
+<li>ale na číslech nezáleží</li>
+</ol>
+
+<h1>Hlavní nadpis jinak</h1>
+
+<h2>Menší nadpis jinak</h2>
+
+<h3>Ještě menší nadpis jinak</h3>
+
+<p>Odstavce se oddělují
+prázdným řádkem. Na délce řádků nezáleží</p>
+
+<p>Udělám nový odstavec. Ještě odkaz na 
+<a href="http://daringfireball.net/projects/markdown/syntax">dokumentaci</a></p>
+
+Horizontální oddělovač:
+<hr>
+
+Vlastnosti textu <i>kurzíva</i>, <i>kurzíva</i>, <b>tučně</b>, <b>tučně</b>, <code>neproporcionální</code>.
+
+<p>Dle libosti <em>můžu používat</em> html</p>
+
+<p>Nebo obrázek 
+<img alt="Alt text" src="https://commons.wikimedia.org/wiki/File:Markdown-mark.svg" /></p>
+
+<p>Konec řádku uprostřed <a href="http://cs.wikipedia.org/wiki/odstavec">odstavce</a>    <br />
+se udělá<br />
+pomocí několika mezer na konci řádku.</p>
+
+<p><a href="http://cs.wikipedia.org">http://cs.wikipedia.org</a></p>
