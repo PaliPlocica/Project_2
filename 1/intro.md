@@ -7,6 +7,7 @@
 6. treba ist na web stranku kde je nase ulozisko, bud github/gitlab, alebo bitbutcket a v settingoch svojho profilu vlozit svoj skopirovany kluc: [adresa kde pridam ssh kluc](https://github.com/settings/keys) <br>
 #
 ## Skratky <br>
+* crtl + shift + i - html
 * ctrl + / = `comments`
 * windows + space = `change languages`
 * ctrl + +/- = `zoom`
