@@ -22,7 +22,7 @@
 * ctrl + z/y = `back/front`
 * echo_"text", ktory chcem vlozit do filu, musi byt oznaceny uvodzovkami + sipka do prava (>) + nazov.typ filu (.md, .txt) = `insert text`
 
-## markdown
+## markdown 
 [info](https://cs.wikipedia.org/wiki/Markdown?fbclid=IwAR1NQRssgvX1-xJSZG8HNADYcqovBGpcd_3b__DZg6HJ2QXeUcONkyAJtBg)
 
 Hlavní nadpis <br>
