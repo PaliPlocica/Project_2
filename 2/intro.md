@@ -1,1 +1,0 @@
-html tagy a atributy k nemu 
